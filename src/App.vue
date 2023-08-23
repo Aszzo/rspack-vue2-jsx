@@ -1,8 +1,8 @@
 <script>
 import HelloWorld from './components/HelloWorld.vue';
-import ElTree from './components/ElTree.vue';
+import ElCustomTree from './components/ElTree.vue';
 export default {
-  components: { HelloWorld }
+  components: { HelloWorld, ElCustomTree }
 }
 </script>
 
@@ -17,7 +17,7 @@ export default {
     </a>
     </div>
     <HelloWorld/>
-    <ElTree />
+    <ElCustomTree />
   </div>
 </template>
 
