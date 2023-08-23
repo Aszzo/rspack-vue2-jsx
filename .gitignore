@@ -1,0 +1,19 @@
+.DS_Store
+node_modules/
+dist/
+config
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+build
+.history
+# Editor directories and files
+.idea
+.vscodenom
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.prettierrc
+.history/
